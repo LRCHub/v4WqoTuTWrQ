@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "回生",
+  "base_artist": "◈*ゆくえわっと",
+  "createdAt": "2025-12-02T01:54:36.005829Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "回生日記",
+      "artist": "Aivy",
+      "has_synced": false,
+      "path": "select/pl_01_回生日記_Aivy.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "回生",
+      "artist": "Aivy",
+      "has_synced": false,
+      "path": "select/pl_02_回生_Aivy.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "回生",
+      "artist": "Aivy",
+      "has_synced": false,
+      "path": "select/pl_03_回生_Aivy.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "回生の詩 (feat. 初音ミク)",
+      "artist": "Aivy",
+      "has_synced": false,
+      "path": "select/pl_04_回生の詩_(feat._初音ミク)_Aivy.txt"
+    }
+  ]
+}
